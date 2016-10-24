@@ -1,0 +1,16 @@
+CACHE MANIFEST
+#version 0.4
+
+CACHE:
+/usr/plugins/Prismjs/prism.js
+/usr/plugins/Prismjs/themes/prism-default.css
+/usr/plugins/Prismjs/wrap-fix.css
+/usr/uploads/beian.png
+/usr/uploads/net.png
+/usr/themes/maupassant/javascript/instantclick.min.js
+/admin/css/normalize.css
+/usr/themes/maupassant/style.css
+favicon.ico
+NETWORK:
+*
+FALLBACK:

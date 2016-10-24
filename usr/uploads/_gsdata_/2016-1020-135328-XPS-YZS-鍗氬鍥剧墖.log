@@ -1,0 +1,11 @@
+2016-10-20 13:53:32: -- Analysis Started by User
+2016-10-20 13:53:33: 变更：3， 冲突：， 复制时间：， 复制状态：/， 错误： , All: 35
+2016-10-20 13:53:33: Left to Right: Copy File: 3 
+2016-10-20 13:53:33: ----- ：分析已结束。 历时 00:00:05， 速度： 5 个文件/秒 -----
+2016-10-20 13:53:33: 
+2016-10-20 13:53:39: == Sync Started by User
+2016-10-20 13:53:40: 新建复制 'C:/Users/yzs/Pictures/uploads/QQ截图20161020122932.png' -> 'sftp://115.159.157.90:1222/home/wwwroot/yezhisheng.com.cn/usr/uploads/QQ截图20161020122932.png'
+2016-10-20 13:53:41: 新建复制 'C:/Users/yzs/Pictures/uploads/QQ截图20161020131017.png' -> 'sftp://115.159.157.90:1222/home/wwwroot/yezhisheng.com.cn/usr/uploads/QQ截图20161020131017.png'
+2016-10-20 13:53:41: 新建复制 'C:/Users/yzs/Pictures/uploads/QQ截图20161020134849.png' -> 'sftp://115.159.157.90:1222/home/wwwroot/yezhisheng.com.cn/usr/uploads/QQ截图20161020134849.png'
+2016-10-20 13:53:43: ===== ：同步完毕。时间：00:00:08，速度： 20.0 KB/s =====, 项目同步未必： 3，错误： 
+2016-10-20 13:53:43: 
